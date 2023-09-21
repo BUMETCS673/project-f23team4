@@ -9,6 +9,7 @@ Hello guys. This is SIYUAN WAN and I am A boy. Now I am studying at Boston Unive
 
 ## Undefined Role: Supriya
 Hai ! Supriya here . currently I am pursuing master's degree (Computer Science) at BOSTON UNIVERSITY. I have done some ML projects before and familiar with python.
-## Undefined Role: Yin Xiancheng
 
+## Undefined Role: Yin Xiancheng
+Hello everyone, I'm Yin Xiancheng, a student with passion for this course. I don't have much experience, but I will try my best in this course. Hope have a nice cooperation with you! ;-)
 
