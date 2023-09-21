@@ -8,7 +8,7 @@ Hi there! I'm a recent grad from Penn State with a BS in Computer Science. Right
 Hello guys. This is SIYUAN WAN and I am A boy. Now I am studying at Boston University Metropolitan College. My BS major is business so I am a new programmer. I have done some data science projects before and am familiar with the Danjgo framework. Hope have a nice cooperation with you!
 
 ## Undefined Role: Supriya
-
+Hai ! Supriya here . currently I am pursuing master's degree (Computer Science) at BOSTON UNIVERSITY. I have done some ML projects before and familiar with python.
 ## Undefined Role: Yin Xiancheng
 
 
